@@ -9,14 +9,17 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [o] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+	A better base knowledge for coding games. Better practices, better efficiency. Also expereince in Unity. I've only created games in Godot.
+
 4. What, if anything, are you nervous about for this class?
+	Using Github. I always avoided it. (much to my chagrin)
 
 ## Prior Experience
 
@@ -25,10 +28,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+gdscript, c++, js, some c#, some python
 
 2. Game development (any engine)
+Godot
 
 3. Unity
+0
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +46,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+The starting document for your game with all of the base plan laid out. Address basic concept, aesthetics, main mechanics, etc.
 
 2. Scope management
+Managing your project to stay within the bounds of the idea, or the GDD, so as not to waste time and money.
 
 3. Iteration
+Creating, testing, editing, testing, repeat. 
 
 4. Object-Oriented programming
+N/A
 
 5. Model-View-Controller architecture
+N/A
 
 ## Complete!
 
